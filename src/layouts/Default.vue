@@ -10,9 +10,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto py-4 py-lg-0">
                         <li class="nav-item"><g-link class="nav-link px-lg-3 py-3 py-lg-4" to="/">Home</g-link></li>
-                        <li class="nav-item"><g-link class="nav-link px-lg-3 py-3 py-lg-4" to="/About">About</g-link></li>
+                        <li class="nav-item"><g-link class="nav-link px-lg-3 py-3 py-lg-4" to="/about">About</g-link></li>
                         <!-- <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post.html">Sample Post</a></li> -->
-                        <li class="nav-item"><g-link class="nav-link px-lg-3 py-3 py-lg-4" to="/Contact">Contact</g-link></li>
+                        <li class="nav-item"><g-link class="nav-link px-lg-3 py-3 py-lg-4" to="/contact">Contact</g-link></li>
                     </ul>
                 </div>
             </div>
