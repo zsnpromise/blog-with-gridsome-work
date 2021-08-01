@@ -76,6 +76,8 @@
         </main>
   </Layout>
 </template>
+<page-query>
+</page-query>
 <script>
 import axios from 'axios'
 export default {

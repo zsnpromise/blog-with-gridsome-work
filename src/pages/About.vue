@@ -26,7 +26,8 @@
         </main>
   </Layout>
 </template>
-
+<page-query>
+</page-query>
 <script>
 export default {
   name: 'about',
