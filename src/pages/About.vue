@@ -30,7 +30,7 @@
 </page-query>
 <script>
 export default {
-  name: 'about',
+  name: 'About',
   metaInfo: {
     title: 'About us'
   }

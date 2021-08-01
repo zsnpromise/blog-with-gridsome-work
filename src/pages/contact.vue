@@ -81,7 +81,7 @@
 <script>
 import axios from 'axios'
 export default {
-   name: 'contact',
+   name: 'Contact',
    data() {
        return {
            from: {

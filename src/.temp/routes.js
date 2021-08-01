@@ -1,6 +1,6 @@
 const c1 = () => import(/* webpackChunkName: "page--src--templates--tag-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/templates/tag.vue")
 const c2 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/templates/post.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--contact-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/pages/contact.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--contact-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/pages/Contact.vue")
 const c4 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/pages/About.vue")
 const c5 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/node_modules/gridsome/app/pages/404.vue")
 const c6 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/zhansinan/Desktop/js/blog/blog-with-gridsome-work/src/pages/Index.vue")
